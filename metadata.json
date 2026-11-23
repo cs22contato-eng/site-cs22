@@ -1,0 +1,6 @@
+{
+  "name": "CS22 Marketing",
+  "description": "Fotografia automotiva, vídeos e gestão de redes sociais em Araçatuba e região para valorizar seu estoque e atrair mais compradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
